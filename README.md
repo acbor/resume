@@ -2,8 +2,8 @@
 Студент 3-его курса Витебского Филиала БГАС специальности "Программное обеспечение сетей телекоммуникации". Годовой опыт верстки и создания **SPA** на **Angular.js**, есть опыт использования **React + Redux**. Есть опыт в создании **RESTful API** на **Ruby (RoR)**, **Node.js (Express)** и **Golang**. Вместо JavaScript часто использую **ClojureScript** или **ES2015/ES7 + Babel**. Использую **LESS/Stylus/SCSS/SASS** и **HAML/Jade**, Gulp/Webpack для сборки. Аналитический склад ума и высокая скорость обучения.
 
 ### Языки и платформы ###
-1) Языки: JavaScript (в том числе ES6), ClojureScript, Golang, Ruby, Python, FASM.
-2) Платформы и технологии: Ruby on Rails, Node.js, Express.js, Martini, Angular.js, React, Redux.
+* Языки: JavaScript (в том числе ES6), ClojureScript, Golang, Ruby, Python, FASM.
+* Платформы и технологии: Ruby on Rails, Node.js, Express.js, Martini, Angular.js, React, Redux.
 
 ### Основное ###
 Работал больше года фрилансером-верстальщиком, следовательно владею навыками HTML/CSS/JS + jQuery. В последнее время стал брать заказы по созданию веб-приложений на Angular.js (последний мой проект - платформа для голосования на RoR (RESTful API) и Angular.js. В данный момент переписываю его на Node.js + React/Redux). Среди крупных заказчиков могу выделить российское издательство манги и ранобэ Истари Комикс.
